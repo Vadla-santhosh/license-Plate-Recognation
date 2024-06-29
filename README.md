@@ -26,7 +26,7 @@ Project Details:
  - Utilized OCR techniques for character recognition on license plates.
  - Achieved an accuracy of 52% on the test set.
 
-6)Deliverables:
+6) Deliverables:
 
  - Jupyter notebook with code implementation
  - Documentation explaining the approach and methodology
